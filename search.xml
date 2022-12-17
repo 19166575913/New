@@ -4,9 +4,28 @@
   
     
     <entry>
-      <title>小娃的成名日记</title>
-      <link href="/2022/12/15/%E5%B0%8F%E5%A8%83%E7%9A%84%E6%88%90%E5%90%8D%E6%97%A5%E8%AE%B0/"/>
-      <url>/2022/12/15/%E5%B0%8F%E5%A8%83%E7%9A%84%E6%88%90%E5%90%8D%E6%97%A5%E8%AE%B0/</url>
+      <title>New</title>
+      <link href="/2022/12/16/New/"/>
+      <url>/2022/12/16/New/</url>
+      
+        <content type="html"><![CDATA[<p>这是我的测试文章</p><h2 id="测试文章"><a href="#测试文章" class="headerlink" title="测试文章"></a>测试文章</h2><h3 id="666"><a href="#666" class="headerlink" title="666"></a>666</h3><p>鸡鸡寂寞寂寞叽叽叽叽磨煤机</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>嗨嗨害</p><h2 id="老八门前打地铺"><a href="#老八门前打地铺" class="headerlink" title="老八门前打地铺"></a>老八门前打地铺</h2><h3 id="离屎不远了"><a href="#离屎不远了" class="headerlink" title="离屎不远了"></a>离屎不远了</h3><p>酷爱像有苦有</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ 能不 <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>来喽</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>大娃的成名日记</title>
+      <link href="/2022/12/16/%E5%A4%A7%E5%A8%83%E7%9A%84%E6%88%90%E5%90%8D%E6%97%A5%E8%AE%B0/"/>
+      <url>/2022/12/16/%E5%A4%A7%E5%A8%83%E7%9A%84%E6%88%90%E5%90%8D%E6%97%A5%E8%AE%B0/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
@@ -23,9 +42,9 @@
     
     
     <entry>
-      <title>大娃的成名日记</title>
-      <link href="/2022/12/15/%E5%A4%A7%E5%A8%83%E7%9A%84%E6%88%90%E5%90%8D%E6%97%A5%E8%AE%B0/"/>
-      <url>/2022/12/15/%E5%A4%A7%E5%A8%83%E7%9A%84%E6%88%90%E5%90%8D%E6%97%A5%E8%AE%B0/</url>
+      <title>小娃的成名日记</title>
+      <link href="/2022/12/16/%E5%B0%8F%E5%A8%83%E7%9A%84%E6%88%90%E5%90%8D%E6%97%A5%E8%AE%B0/"/>
+      <url>/2022/12/16/%E5%B0%8F%E5%A8%83%E7%9A%84%E6%88%90%E5%90%8D%E6%97%A5%E8%AE%B0/</url>
       
         <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
       
@@ -33,6 +52,25 @@
       <categories>
           
           <category> 葫芦 </category>
+          
+      </categories>
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>测试文章</title>
+      <link href="/2022/12/16/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+      <url>/2022/12/16/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 测试 </category>
           
       </categories>
       
@@ -122,9 +160,9 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>电影</title>
+      <link href="/movies/index.html"/>
+      <url>/movies/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -133,9 +171,9 @@
     
     
     <entry>
-      <title>电影</title>
-      <link href="/movies/index.html"/>
-      <url>/movies/index.html</url>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
